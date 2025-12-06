@@ -27,6 +27,9 @@ This notebook builds a decision tree classifier to predict Iris flower species. 
 
 The API allows users to send flower measurements and receive a predicted species in response.
 
+**API Documentation Example:**  
+![API Documentation Swagger UI](Addon(project).png)
+
 ---
 
 This project is a practical demonstration of machine learning techniques and API development, reflecting topics covered in the college addon course, from data analysis and model training to deploying and exposing models for real-world usage.
